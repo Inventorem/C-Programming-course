@@ -1,13 +1,14 @@
-﻿# Как сдавать лабораторные работы через gitlab.ccfit.nsu.ru
-* Сделайте форк (fork) этого репозитория (repository) в свое рабочее пространство (workspace)
-* Для лабораторной работы номер 0, 1-0, 1-1 и т.д. нужно создать ветку с именем lab0, lab1-0, lab1-1 и т.д.
-# Следите за тем, чтобы ветки лабораторных работ начинались от мастера
-# Перед созданием ветки для очередной лабораторной работы убедитесь, текущая ветка в рабочей копии -- мастер
-# При необходимости переключитесь на мастер
-# Это избавит от неожиданных конфликтов в мерж-реквестах
-* Переключитесь на ветку нужной лабораторной работы
-* Напишите код лабораторной работы в её директории, почаще заливайте ваши правки в соотв. ветку
-* Создайте мерж-реквест (merge request) из ветки с лабораторной работой в master
-* Назначьте исполнителем мерж-реквеста Вашего преподавателя по программированию
-* Исправьте все замечания
-* PROFIT!!!
+﻿# C programming course labs:
+## 0.   Translate integer and float numbers from calculus system b (2 <= b <=16) to p (2 <= b <=16)
+## 1-0. Boyer-Moore algorithm
+## 1-1. Rabin-Karp algorithm
+## 2.   Narayana 's Algorithm
+## 3-0. Heap Sort
+## 3-1. Quick sort
+## 4.   Postfix calculator, reverse Polish notation
+## 5.   Huffman Archiver and Dearchivator
+## 6.   Creating AVL-tree
+## 7.   Topological sort
+## 8-0. Prim algorithm
+## 8-1. Kruskal algorithm
+## 9.   Dijkstra algorithm
