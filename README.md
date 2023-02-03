@@ -1,4 +1,4 @@
-﻿# C programming course labs:
+﻿# C programs:
 ## 1.   Translate integer and float numbers from calculus system b (2 <= b <=16) to p (2 <= b <=16)
 ## 2. Boyer-Moore algorithm
 ## 3. Rabin-Karp algorithm
